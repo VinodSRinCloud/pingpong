@@ -1,0 +1,22 @@
+body {
+  background: #181818;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 32px 0 12px 0;
+  font-size: 2rem;
+}
+
+#pong {
+  background: #222;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 40px #0009;
+}
